@@ -38,7 +38,7 @@ All the amazing things in the Accelerated Mobile Pages (AMP) Universe.
 * [The AMP Keynote (Google I/O '17)](https://www.youtube.com/watch?v=BGyF5Uh3w1M)
 
 ## Tools
-* [ampb.in](https://ampb.in)
+* [Live Editor for AMP HTML](https://ampb.in)
 
 ## Blog Posts
 * [The Why and How of Google AMP at Condé Nast](https://technology.condenast.com/story/the-why-and-how-of-google-amp-at-conde-nast)
