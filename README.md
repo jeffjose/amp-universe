@@ -12,8 +12,8 @@ All the amazing things in the Accelerated Mobile Pages (AMP) Universe.
 
 ## Table of Contents
 - [Official Resources](#official-resources)
+- [Validation Tools](#validation-tools)
 - [Videos](#videos)
-
 
 ## Official Resources
 * [Official Website](https://ampproject.org)
@@ -21,6 +21,14 @@ All the amazing things in the Accelerated Mobile Pages (AMP) Universe.
 * [Reference](https://ampproject.org/docs/reference/components)
 * [Tutorials](https://ampproject.org/docs/tutorials/create)
 * [Github](https://github.com/ampproject/amphtml)
+
+## Validation Tools
+* [AMP Validator](https://validator.ampproject.org/)
+* [AMP Bench](https://ampbench.appspot.com/)
+* [AMP Test](https://search.google.com/test/amp)
+* [AMP Validator Chrome Extension](https://chrome.google.com/webstore/detail/amp-validator/nmoffdblmcmgeicmolmhobpoocbbmknc?hl=en)
+* [Google Structured Data Testing Tool](https://search.google.com/structured-data/testing-tool)
+* [AMP Validator npm package](https://www.npmjs.com/package/amphtml-validator)
 
 ## Videos
 * [AMP YouTube](https://www.youtube.com/c/TheAMPProject)
