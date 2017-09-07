@@ -21,6 +21,7 @@ All the amazing things in the Accelerated Mobile Pages (AMP) Universe.
 * [Reference](https://ampproject.org/docs/reference/components)
 * [Tutorials](https://ampproject.org/docs/tutorials/create)
 * [Github](https://github.com/ampproject/amphtml)
+* [Blog](https://amphtml.wordpress.com/)
 
 ## Validation Tools
 * [AMP Validator](https://validator.ampproject.org/)
