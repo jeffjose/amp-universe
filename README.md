@@ -18,7 +18,7 @@ All the amazing things in the Accelerated Mobile Pages (AMP) Universe.
 - [Blog posts](#blog-posts)
 
 ## Official Resources
-* [Official Website](https://ampproject.org)
+* [Homepage](https://ampproject.org)
 * [Documentation](https://ampproject.org/docs/)
 * [Reference](https://ampproject.org/docs/reference/components)
 * [Tutorials](https://ampproject.org/docs/tutorials/create)
