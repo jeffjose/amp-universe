@@ -35,7 +35,7 @@ All the amazing things in the Accelerated Mobile Pages (AMP) Universe.
 
 ## Videos
 * [AMP YouTube](https://www.youtube.com/c/TheAMPProject)
-* [The AMP Keynote (Google I/O '17](https://www.youtube.com/watch?v=BGyF5Uh3w1M)
+* [The AMP Keynote (Google I/O '17)](https://www.youtube.com/watch?v=BGyF5Uh3w1M)
 
 ## Tools
 * [ampb.in](https://ampb.in)
