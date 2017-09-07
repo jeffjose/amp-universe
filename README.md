@@ -14,6 +14,8 @@ All the amazing things in the Accelerated Mobile Pages (AMP) Universe.
 - [Official Resources](#official-resources)
 - [Validation Tools](#validation-tools)
 - [Videos](#videos)
+- [Tools](#tools)
+- [Blog posts](#blog-posts)
 
 ## Official Resources
 * [Official Website](https://ampproject.org)
@@ -34,3 +36,9 @@ All the amazing things in the Accelerated Mobile Pages (AMP) Universe.
 ## Videos
 * [AMP YouTube](https://www.youtube.com/c/TheAMPProject)
 * [The AMP Keynote (Google I/O '17](https://www.youtube.com/watch?v=BGyF5Uh3w1M)
+
+## Tools
+* [ampb.in](https://ampb.in)
+
+## Blog Posts
+* [The Why and How of Google AMP at Condé Nast](https://technology.condenast.com/story/the-why-and-how-of-google-amp-at-conde-nast)
