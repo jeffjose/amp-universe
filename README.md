@@ -39,6 +39,7 @@ All the amazing things in the Accelerated Mobile Pages (AMP) Universe.
 * [AMP Validator npm package](https://www.npmjs.com/package/amphtml-validator)
 
 ## Examples
+* [amp-tube - A simple YouTube search engine and viewer app, implemented in AMP](https://tomayac.github.io/amp-tube/)
 * [Learn AMP by Example](https://ampbyexample.com)
 * [Quick start templates and components](https://ampstart.com)
 
